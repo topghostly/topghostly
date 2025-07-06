@@ -4,14 +4,14 @@
 
 ###
 
-<p align="left">I'm David, a driven Full-Stack JavaScript Developer and part-time Machine Learning Engineer, blending creativity with cutting-edge technology to craft seamless web and mobile experiences while exploring the potential of AI.</p>
+<p align="left">I'm David-a driven Full-Stack JavaScript Developer and part-time Machine Learning Engineer, blending creativity with cutting-edge technology to craft seamless web and mobile experiences while exploring the potential of AI.</p>
 
 ###
 
 <p align="left">🌐 Currently updating my portfolio<br>📚 Self-taught developer passionate about mastering full-stack JavaScript<br>💡 Exploring machine learning and integrating AI into modern projects<br>👨‍💻 Actively freelancing since 2022, delivering scalable tech solutions</p>
 
 ###
-
+s
 <h2 align="left">Stack:</h2>
 
 ###
