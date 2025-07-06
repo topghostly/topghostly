@@ -11,7 +11,7 @@
 <p align="left">🌐 Currently updating my portfolio<br>📚 Self-taught developer passionate about mastering full-stack JavaScript<br>💡 Exploring machine learning and integrating AI into modern projects<br>👨‍💻 Actively freelancing since 2022, delivering scalable tech solutions</p>
 
 ###
-s
+
 <h2 align="left">Stack:</h2>
 
 ###
